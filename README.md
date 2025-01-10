@@ -1,4 +1,4 @@
-## [OpenLedger](https://testnet.openledger.xyz/?referral_code=b6u7cmjava). New Testnet for All Devices.
+## [OpenLedger](https://testnet.openledger.xyz/?referral_code=bbv4d2lbwq). New Testnet for All Devices.
 *Disclaimer: The author of this guide, which is exclusively informational material, does not bear any responsibility for the actions of readers. There are no fraudulent or spam links in the guide. All materials were obtained from official sources, links to which can be found at the end of each guide. This post is copyrighted by Nod Mafia.*
 
 ![image](https://github.com/user-attachments/assets/eed66713-aeba-4374-b718-4c0656d5c75e)
@@ -8,11 +8,11 @@ OpenLedger is a data blockchain designed for AI, offering a decentralized trust 
 OpenLedger implements in its testnet the ability to install nodes for almost all devices. The project has attracted $8,000,000 in investments from Polychain Capital, HashKey Capital, etc. EigenLayer and 0G Labs are also partners. 
 
 
-## [OpenLedger Testnet](https://testnet.openledger.xyz/?referral_code=b6u7cmjava). An overview of [all nodes](https://testnet.openledger.xyz/app-store).
+## [OpenLedger Testnet](https://testnet.openledger.xyz/?referral_code=bbv4d2lbwq). An overview of [all nodes](https://testnet.openledger.xyz/app-store).
 
 ![image](https://github.com/user-attachments/assets/de3a7591-e135-4a85-ad1d-56a1755e888b)
 
-In the [OpenLedger testnet](https://testnet.openledger.xyz/?referral_code=b6u7cmjava), you can set up nodes like this:
+In the [OpenLedger testnet](https://testnet.openledger.xyz/?referral_code=bbv4d2lbwq), you can set up nodes like this:
 
 - [Windows Node](https://cdn.openledger.xyz/openledger-node-1.0.0-windows.zip)
 - [Ubuntu 24.04+ Node](https://cdn.openledger.xyz/openledger-node-1.0.0-linux.zip)
@@ -21,9 +21,9 @@ In the [OpenLedger testnet](https://testnet.openledger.xyz/?referral_code=b6u7cm
 
 Let's break down the installation for Ubuntu in detail. 
 
-### 1st step - Register [here](https://testnet.openledger.xyz/?referral_code=b6u7cmjava) 
+### 1st step - Register [here]() 
 
-## [OpenLedger Node for Ubuntu](https://testnet.openledger.xyz/?referral_code=b6u7cmjava). Overview and installation.
+## [OpenLedger Node for Ubuntu](https://testnet.openledger.xyz/?referral_code=bbv4d2lbwq). Overview and installation.
 
 ![image](https://github.com/user-attachments/assets/037a12fd-7f2c-4a55-984f-60760e50ca73)
 
