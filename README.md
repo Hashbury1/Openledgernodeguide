@@ -120,19 +120,15 @@ openledger-node --no-sandbox
 ```
 In the window that launches, click Disconnect, then Connect Again . After a while, check the stability of the connection in the Dashboard.
 
-### If you have encountered any other errors, you can ask questions in our [Telegram Channel](https://t.me/nodemafia), under the post about OpenLedger 
+### If you have encountered any other errors, you can ask questions in our [Telegram Channel](https://t.me/hashbury), under the post about OpenLedger 
 
 
-## NodeMafia. We hope our content is useful for you.
+## We hope our content is useful for you.
 
 ![image](https://github.com/user-attachments/assets/f8f95f39-e5ca-4975-9fcd-a3bf31d70522)
 
-GitHub: https://github.com/NodeMafia
+GitHub: https://github.com/Hashbury1/Openledgernodeguides
 
-Medium: https://medium.com/@nodemafia
+Telegram: https://t.me/hashbury
 
-Telegram: https://t.me/nodemafia
-
-Teletype: https://teletype.in/@nodemafia
-
-Twitter: https://x.com/NodeMafia
+Twitter: https://x.com/IamHashBury
